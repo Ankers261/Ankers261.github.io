@@ -1,0 +1,15 @@
+.pageBody {
+    background-image: linear-gradient(#ece2cd, #e7dcc8) ;
+}
+
+
+header h1{
+    font-size: 5rem;
+    color: #111111;
+    
+}
+
+header h2 {
+    font-size: 1.5rem;
+    color: #555555;
+}
