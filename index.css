@@ -14,8 +14,12 @@ header h2 {
     color: #555555;
 }
 
-div {
+.higherDiv {
     display: flex;
     justify-content: center;
     align-items: center;
+}
+
+div {
+    margin-top: 50px;
 }
